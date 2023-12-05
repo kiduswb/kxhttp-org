@@ -1,5 +1,7 @@
 # KxHTTP Web
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d392553e-08b6-4141-a927-7bb5672defbc/deploy-status)](https://app.netlify.com/sites/kxhttp/deploys)
+
 Project files for KxHTTP's website.
 
 # Contributing to DOCS.md
