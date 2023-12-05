@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    font-family: "Ubuntu", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+    border-radius: 0 !important;
+    /* teehee */
+}
+
+.text-orange {
+    color: #fc573b;
+}
+
+.btn-orange {
+    border-color: #fc573b;
+    color: #fc573b;
+}
+
+.btn-orange:hover {
+    background-color: #fc573b;
+    color: #fff;
+}
+
+.link-kxh {
+    color: #fc573b;
+    text-decoration: none;
+}
+
+.link-kxh:hover {
+    color: #9c301d;
+    text-decoration: none;
+}
